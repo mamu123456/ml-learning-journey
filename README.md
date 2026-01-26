@@ -16,8 +16,6 @@ The goal of this repository is to demonstrate:
 ml-learning-journey/
 ├── README.md
 ├── 01_foundations/
-│   ├── python_basics/
-│   └── algorithms_from_scratch/
 ├── 02_classical_ml/
 │   ├── house_value_prediction/
 │   ├── breast_cancer_prediction/
