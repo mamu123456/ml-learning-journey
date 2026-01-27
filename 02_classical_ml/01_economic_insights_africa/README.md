@@ -5,6 +5,8 @@ This project was completed as a knowledge assessment task for an internship prog
 
 The objective was to demonstrate data handling, visualization, and basic analytical reasoning.
 
+The project notebook can be accessed [here](02_classical_ml/01_economic_insights_africa/WDI_economic_insights_africa.ipynb)
+
 ---
 
 ## Dataset
@@ -55,3 +57,4 @@ I would appreciate feedback on:
 - Whether the chosen visualizations are appropriate
 - How the analysis could be strengthened
 - Alternative ways to extract more meaningful insights
+
