@@ -33,3 +33,5 @@ Each project is contained in its own folder with a dedicated README describing:
 - The approach
 - Results
 - Limitations and open questions
+
+NOTE: Some notebooks were refactored slightly to remove local paths and proprietary course branding before public sharing.
