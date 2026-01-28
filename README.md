@@ -17,14 +17,22 @@ ml-learning-journey/
 ├── README.md
 ├── 01_foundations/
 ├── 02_classical_ml/
-│   ├── house_value_prediction/
-│   ├── breast_cancer_prediction/
-│   └── loan_default_prediction/
+│   ├── 01_ecoomic_insights_africa/
+│   ├── 02_flood_prediction/
+│   ├── 03_house_price_prediction/
+│   ├── 04_loan_default_prediction/
+│   ├── 05_breast_cancer_outcome_prediction/
+│   ├── 
+│   └── 
 ├── 03_computer_vision/
 │   ├── animals_classification/
-│   └── waste_management_classification/
+│   ├── waste_management_classification/
+│   ├── 
+│   └── 
 └── 04_nlp/
-    └── spam_classification/
+│   ├── spam_classification/
+│   ├── 
+│   └── 
 ```
 
 
